@@ -1,5 +1,3 @@
-"use client"
-
 import { Check, Globe } from "lucide-react"
 import { useTranslation } from "react-i18next"
 import { LOCALES_AVAILABLE } from "@/i18n"
